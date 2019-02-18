@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "main_q3.py", line 1, in <module>
-    import torchvision
-ImportError: No module named torchvision
